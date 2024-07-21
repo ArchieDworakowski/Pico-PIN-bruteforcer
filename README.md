@@ -14,7 +14,9 @@ Install CircuitPython to Pico, and add the code.py, combos.txt, and adafruid_hid
 
 - Add handling for when Pico correctly guesses PIN.
 
-- Add more choice of PINs to try (e.e choose amount of digits etc.).
+- Add more choice of PINs to try (e.e choose amount of digits, or popular combinations etc).
+
+- Test on operating systems other than Android 
 
 ## Bugs
 
